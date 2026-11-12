@@ -5,6 +5,13 @@ All notable changes to this project are documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.4] - 2026-11-12
+
+### Added
+- 90 new storefront strings (Hyvä and Luma): newsletter subscription messages (success, confirmation request, already subscribed, errors),
+  header and mini-cart, product page (gallery, stock, reviews), compare and wishlist, cart, login / registration / password reset,
+  contact form.
+
 ## [1.1.3] - 2026-11-08
 
 ### Fixed
