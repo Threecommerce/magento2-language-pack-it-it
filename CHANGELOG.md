@@ -5,6 +5,15 @@ All notable changes to this project are documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.5] - 2026-11-17
+
+### Added
+- 366 new storefront strings from the Hyvä default theme that had no Italian translation: product page tabs and blocks
+  (*More Information* → *Maggiori informazioni*, related / recently viewed products, prices and tax labels), layered navigation,
+  search, toolbar and pager, customer account (dashboard, address book, orders, invoices, shipments, refunds, downloadable products,
+  reviews, newsletter, stored payment methods), wishlist, compare, cart and shipping estimate, gift options, order tracking,
+  stock / price alerts, reCAPTCHA messages and cookie notice.
+
 ## [1.1.4] - 2026-11-12
 
 ### Added
